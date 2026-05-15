@@ -14,3 +14,4 @@ dependencies:
   - pandas=1.2.4
   - seaborn>=0.12
   - voila>=0.2.11
+  - ipywidgets 
