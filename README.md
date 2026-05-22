@@ -15,3 +15,9 @@ This project models and analyzes a **Recycled Air Heating System with Economizer
 First, the user can define the weather conditions for his own purposes by modifying the boundary conditions. The second part of this Jupyter Notebook includes a section where real weather data in .epw format can be imported and used.
 
 This framework follows the examples and uses the Python scripts from `PsychroAn_tuto` [[1](#ref-1)] and `dm4bem` [[2](#ref-2)]
+
+
+### References
+
+1. <a id="ref-1"></a> Ghiaus, C. (2022). _PsychroAn_tuto_. https://github.com/cghiaus/PsychroAn_tuto (accessed May 22, 2026)
+2. <a id="ref-2"></a> Ghiaus, C. (2024). _Dynamic Models for Building Energy Management_. https://cghiaus.github.io/dm4bem_book/intro.html (accessed May 22, 2026)
